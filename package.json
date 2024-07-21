@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@web3-storage/w3up-client": "^15.0.0",
+    "dotenv": "^16.4.5",
+    "web3.storage": "^4.5.5"
+  }
+}
